@@ -5,9 +5,11 @@
 - Language : Swift
 
 <p align="center">
-  # gymStart
- ![image](https://user-images.githubusercontent.com/63206260/212761217-f1d85473-2b79-42ce-acfd-121a922afd82.png)
+    # gymStart
+  <img src="(https://user-images.githubusercontent.com/63206260/212761217-f1d85473-2b79-42ce-acfd-121a922afd82.png)" width="350" title="hover text">
+
 </p>
+
 
 
 ## Project Description 
