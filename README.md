@@ -1,4 +1,4 @@
-<img align="right" width="150" height="150" src="https://user-images.githubusercontent.com/63206260/212763230-e834b28f-e80a-4fb8-aa8f-f7011dcb796a.png">
+<img align="center" width="150" height="150" src="https://user-images.githubusercontent.com/63206260/212763230-e834b28f-e80a-4fb8-aa8f-f7011dcb796a.png">
  # gymStart
 - Project READMEfile 
 - Created By : Jahangeer Aslam
