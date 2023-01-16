@@ -7,7 +7,8 @@
 
  # gymStart
 
-<img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/63206260/212763230-e834b28f-e80a-4fb8-aa8f-f7011dcb796a.png">
+<img align="center" width="250" height="250" src="https://user-images.githubusercontent.com/63206260/212763230-e834b28f-e80a-4fb8-aa8f-f7011dcb796a.png">
+
 
 
 
