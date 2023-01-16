@@ -4,11 +4,11 @@
 - Project Name: gymStart
 - Language : Swift
 
-<p align="center">
-    # gymStart
-  <img src="(https://user-images.githubusercontent.com/63206260/212761217-f1d85473-2b79-42ce-acfd-121a922afd82.png)" width="350" title="hover text">
 
-</p>
+ # gymStart
+
+<img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/63206260/212763230-e834b28f-e80a-4fb8-aa8f-f7011dcb796a.png">
+
 
 
 
