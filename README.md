@@ -1,11 +1,14 @@
-#Project READMEfile 
-#Created By : Jahangeer Aslam
-#Date Last Modified: 28/03/2021
-#Project Name: gymStart
-#Language : Swift
+Project READMEfile 
+Created By : Jahangeer Aslam
+Date Last Modified: 28/03/2021
+Project Name: gymStart
+Language : Swift
+
+## Project Breif
+For my 4th year dissertation project, I decided to research, design and implement my own IOS app in Swift. The fundemental idea was that this app woukld provide new gym users with everything they need to get started in the gym. The app has a Learn section which edcuates users on key exercises, a Log section which allows users to store thier workout infromation (sets/reps) into a backend database and a dashboard to allow the data gather to be presetned to the user in an interactive dynamic format. It also provides each user with a dailt top tip tilored to thier fitness goal.
 
 
-## Overview
+## Instructions
 This file will provide you with everything you need to run this project.
 
 WARNING : The only IDE to run swift files which I am aware of is Xcode hence this file will detail how to run this project using the Xcode IDE. If another IDE is wished to be used it is up to the individual to figure out how to run this project using their method. 
@@ -50,7 +53,7 @@ pod update
 The pods required from the project should then successfully install from the PodFile and should be highlighted as green in the terminal once completed.
 
 
-##Step 4
+## Step 4
 
 Open the .xcworkspace file from the project source code in Xcode. ( DO NOT run the .xcodeproj file, this is a common mistake some people make :) )
 
@@ -65,7 +68,7 @@ You have now successfully launched the project.
 
 
 ------------------------------------------------------------
-
+## Contact
 If any issues are faced while following the above steps please contact me for any help.
 
 Jahangeer Aslam 
