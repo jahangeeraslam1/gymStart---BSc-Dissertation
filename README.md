@@ -1,5 +1,5 @@
-#Project READMEfile /n
-#Created By : Jahangeer Aslam /n
+#Project READMEfile 
+#Created By : Jahangeer Aslam
 #Date Last Modified: 28/03/2021
 #Project Name: gymStart
 #Language : Swift
