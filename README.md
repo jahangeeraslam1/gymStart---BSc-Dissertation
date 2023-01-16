@@ -1,4 +1,5 @@
-<img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/63206260/212763230-e834b28f-e80a-4fb8-aa8f-f7011dcb796a.png">
+<img align="right" width="150" height="150" src="https://user-images.githubusercontent.com/63206260/212763230-e834b28f-e80a-4fb8-aa8f-f7011dcb796a.png">
+ # gymStart
 - Project READMEfile 
 - Created By : Jahangeer Aslam
 - Code Last Modified: 28/03/2021
@@ -6,7 +7,7 @@
 - Language : Swift
 
 
- # gymStart
+
 
 
 
