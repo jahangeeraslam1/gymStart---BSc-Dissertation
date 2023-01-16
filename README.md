@@ -37,10 +37,12 @@ For my 4th year dissertation project, I decided to research, design and implemen
 
 
 
-## Instructions
+## Setup Instructions
 This file will provide you with everything you need to run this project.
 
-**WARNING : The only IDE to run swift files which I am aware of is Xcode hence this file will detail how to run this project using the Xcode IDE. If another IDE is wished to be used it is up to the individual to figure out how to run this project using their method.**
+**WARNING : The only IDE to run swift files which I am aware of is Xcode hence this file will detail how to run this project using the Xcode IDE**
+
+**If another IDE is wished to be used it is up to the individual to figure out how to run this project using their method.**
 
 
 ## Step 1
@@ -59,7 +61,7 @@ Run the following command to install the CocoPods package dependency manager to 
 sudo gem install cocoa-pods
 ................
 
-Note : "This must be done or certain aspects of the project will fail to build later"
+**Note : This must be done or certain aspects of the project will fail to build later**
 
 
 ## Step 3
