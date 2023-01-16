@@ -76,7 +76,9 @@ The pods required from the project should then successfully install from the Pod
 
 ## Step 4
 
-Open the .xcworkspace file from the project source code in Xcode. ( DO NOT run the .xcodeproj file, this is a common mistake some people make :) )
+Open the .xcworkspace file from the project source code in Xcode.
+
+**DO NOT run the .xcodeproj file, this is a common mistake some people make :)**
 
 ## Step 5
 
@@ -88,7 +90,6 @@ You should have now successfully launched the project.
 Enjoy!
 
 
-------------------------------------------------------------
 ## Contact
 If any issues are faced while following the above steps please contact me for any help.
 
