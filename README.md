@@ -4,9 +4,11 @@
 - Project Name: gymStart
 - Language : Swift
 
-# gymStart
+<p align="center">
+  # gymStart
+ ![image](https://user-images.githubusercontent.com/63206260/212761217-f1d85473-2b79-42ce-acfd-121a922afd82.png)
+</p>
 
-![image](https://user-images.githubusercontent.com/63206260/212761217-f1d85473-2b79-42ce-acfd-121a922afd82.png)
 
 ## Project Description 
 For my 4th year dissertation project, I decided to research, design and implement my own IOS app in Swift. The fundemental idea was that this app woukld provide new gym users with everything they need to get started in the gym. The app has a Learn section which edcuates users on key exercises, a Log section which allows users to store thier workout infromation (sets/reps) into a backend database and a dashboard to allow the data gather to be presetned to the user in an interactive dynamic format. It also provides each user with a dailt top tip tilored to thier fitness goal.
