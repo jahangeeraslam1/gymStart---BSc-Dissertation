@@ -1,3 +1,8 @@
+<img
+{
+Padding: 10px; //padding positions
+}>
+
 <p align="center"> 
 <img width="150" src="https://user-images.githubusercontent.com/63206260/212763230-e834b28f-e80a-4fb8-aa8f-f7011dcb796a.png">
 </p>
@@ -22,9 +27,11 @@
 For my 4th year dissertation project, I decided to research, design and implement my own IOS app in Swift. The fundemental idea was that this app woukld provide new gym users with everything they need to get started in the gym. The app has a Learn section which edcuates users on key exercises, a Log section which allows users to store thier workout infromation (sets/reps) into a backend database and a dashboard to allow the data gather to be presetned to the user in an interactive dynamic format. It also provides each user with a dailt top tip tilored to thier fitness goal.
 
 <p align="center"> 
+ <img width="250" alt="Screenshot 2023-01-16 at 20 56 45" src="https://user-images.githubusercontent.com/63206260/212764631-e31b393c-ff45-40c2-89df-9e09c334398c.png">
+ 
 <img width="250" alt="Screenshot 2023-01-16 at 20 57 02" src="https://user-images.githubusercontent.com/63206260/212764622-e801c777-a1bb-4819-8318-f53eebb4c561.png">
 <img width="250" alt="Screenshot 2023-01-16 at 20 56 51" src="https://user-images.githubusercontent.com/63206260/212764626-f3f1b46a-cffd-40e2-b8a3-a31006e79ffc.png">
-<img width="250" alt="Screenshot 2023-01-16 at 20 56 45" src="https://user-images.githubusercontent.com/63206260/212764631-e31b393c-ff45-40c2-89df-9e09c334398c.png">
+
 </p>
 
 ## Instructions
