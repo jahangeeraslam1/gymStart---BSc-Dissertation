@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>541595787030-5bk6a0jpdrbm8b34dhddv2nliu57ip3e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.541595787030-5bk6a0jpdrbm8b34dhddv2nliu57ip3e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCSVjZ1UKFuUdxUIrf5SJKEG55LPpTwLuk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>541595787030</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>jahangeer.aslam.diss.gymStart-1</string>
+	<key>PROJECT_ID</key>
+	<string>gymstart-b9c75</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gymstart-b9c75.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:541595787030:ios:e41bfaa2dc0fca266f3a37</string>
+</dict>
+</plist>
